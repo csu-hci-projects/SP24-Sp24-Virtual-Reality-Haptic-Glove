@@ -1,0 +1,11 @@
+AboutTheProject.txt
+
+This project explores the efficiency and user perceptions of two distinct Virtual Reality (VR) input methods: Hand Tracking and Controllers. 
+
+Through a series of tasks, we measured the completion times and collected user feedback to assess comfort, accuracy, and intuitiveness of each method. 
+
+Statistical analysis revealed that Controllers generally offer quicker task completion, while Hand Tracking is perceived as more intuitive and comfortable. 
+
+The findings highlight important trade-offs between performance efficiency and user experience in VR systems. 
+
+This study contributes to ongoing discussions in VR technology development, suggesting paths for future research on integrating user comfort with high performance
