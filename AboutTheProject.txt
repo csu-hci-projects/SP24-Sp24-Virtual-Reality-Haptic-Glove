@@ -1,11 +1,11 @@
 AboutTheProject.txt
 
-This project explores the efficiency and user perceptions of two distinct Virtual Reality (VR) input methods: Hand Tracking and Controllers. 
+As you know this project explores the realm of virtual reality input methods and which one allows the user the most dexterity by measuring overal accuracy and effciency in completing basic manipulation tasks.  
 
-Through a series of tasks, we measured the completion times and collected user feedback to assess comfort, accuracy, and intuitiveness of each method. 
+Through a series of tasks, I measured the completion times and collected user feedback to assess comfort, accuracy, intuitiveness, and error recovery of each method. 
 
-Statistical analysis revealed that Controllers generally offer quicker task completion, while Hand Tracking is perceived as more intuitive and comfortable. 
+I think I might have bitten of a little more than I could chew with this project it definetly could have benefited greatly from the help of maybe one or two more people to assist me in the building of the haptic gloves because since I am not a engineer it took way longer than expected and ultimatly I eneded up accidentally burning my hand and fried one of the micro controllers in the process. I also experienced so many errors in the act of just getting the even to run on the device. These errors would range from the files you added are corrupted even though I havnt changed anything and they uploaded fine a few minutes ago to my PC wont recognize that there was anything connected. Beyond that it was an absolute nightmare trying to get the haptics and finge rtracking to work within Steam VR because I havd never used the software before let alone used it with a custom controller solution that was attempting to emulate Valve Index controllers in real-time. 
 
-The findings highlight important trade-offs between performance efficiency and user experience in VR systems. 
+However, despite all the stress and anxiety this project caused at times I learned so much! The skills I learned it just basic problem solving and finding new ways around a problem was staggering. It was expecially satisfying to finish the wiring on my first glove and see the data in real-time in arduino IDE for the first time when I tried it on after weeks of the glove not working. 
 
-This study contributes to ongoing discussions in VR technology development, suggesting paths for future research on integrating user comfort with high performance
+So because the glove took so long my experiement was a little rushed and the data definetly shows that. If I had more time and started with a completed input method and got to devote my entire time to either fixing the glove or to just an experiement I think that might have been better. However for this experiement I thin kbased on my data I could tell where the wind was blowing in terms of the input method determining the best method for user dexterity. However there is not near enough information to make a defintive case that the unput method was the sole variable that improved task completion time. 
